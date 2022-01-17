@@ -1,0 +1,2 @@
+rootProject.name = "WhatsappOpener"
+include ':app'
